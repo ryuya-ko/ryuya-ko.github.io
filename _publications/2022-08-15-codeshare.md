@@ -1,6 +1,7 @@
 ---
 title: "Empirical analysis of the codeshare effect on airline market competition and product quality"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-08-15-codeshare
 date: 2022-08-15
 venue: 'Working Paper'

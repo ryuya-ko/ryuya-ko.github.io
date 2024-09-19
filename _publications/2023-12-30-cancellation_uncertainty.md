@@ -1,6 +1,7 @@
 ---
 title: "Strategic Responses Under Increasing Uncertainty: Flight Cancellation Decisions by Domestic Airlines"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-12-30-cancellation_uncertainty
 date: 2023-12-30
 venue: 'Working Paper'

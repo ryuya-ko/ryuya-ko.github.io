@@ -1,7 +1,7 @@
 ---
 title: "When to Target Customers? Retention Management using Dynamic Off-Policy Policy Learning "
 collection: publications
-category: manuscripts
+category: working_papers
 permalink: /publication/2024-05-02-optimal_targeting
 date: 2024-05-02
 venue: 'Working Paper'

@@ -7,21 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-This is Ryuya Ko's website. I am a PhD student in Economics at the University of Texas at Austin. This webpage is still under construction.
+Howdy!
 
-CV
-======
+I am a PhD student at the Department of Economics of UT Austin.
 
-<!-- My detailed CV is av[here](https://ryuya-ko.github.io/files/cv_ryuyako.pdf) -->
-My CV is available at [here](https://ryuya-ko.github.io/files/cv_ryuyako.pdf)
+<!-- Insert my research interest -->
 
-Research
-======
+[Curriculum Vitae](https://ryuya-ko.github.io/files/cv_ryuyako.pdf)
 
 **(under construction)**
 
 Working Papers
 ------
+
 
 Work in Progress
 ------

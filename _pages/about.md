@@ -12,10 +12,13 @@ This is Ryuya Ko's website. I am a PhD student in Economics at the University of
 CV
 ======
 
-My CV is [here]()
+<!-- My detailed CV is av[here](https://ryuya-ko.github.io/files/cv_ryuyako.pdf) -->
+My CV is available at [here](https://ryuya-ko.github.io/files/cv_ryuyako.pdf)
 
 Research
 ======
+
+**(under construction)**
 
 Working Papers
 ------

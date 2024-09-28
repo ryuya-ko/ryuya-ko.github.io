@@ -4,7 +4,7 @@ collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/ut_austin_ta
 venue: "University of Texas at Austin"
-date: 2022-Present
+date: 2024-09-28
 location: "Austin, Country"
 ---
 

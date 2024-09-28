@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+<!-- attach the curriculum vitae below -->
+[Curriculum Vitae](https://ryuya-ko.github.io/files/cv_ryuyako.pdf)
+
 Education
 ======
 * Ph.D in Economics, University of Texas at Austin, 2027 (expected)
@@ -22,17 +26,11 @@ Research experience
 * Research Assistant to Hiroshi Ohashi
   * 2019 -- 2021
   
-Publications
+Research
 ======
 ## Working Papers
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -41,6 +39,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Honors and Fellowships
-======
+<!-- Honors and Fellowships -->
+<!-- ====== -->
 <!-- * Currently signed in to 43 different slack teams -->

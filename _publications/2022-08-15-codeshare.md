@@ -8,6 +8,7 @@ venue: 'Working Paper'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://ryuya-ko.github.io/files/codeshare.pdf'
 # citation: 'Ko, Ryuya and Ohashi, Hiroshi. (2022). &quot;Empirical analysis of the codeshare effect on airline market competition and product quality&quot; <i>Working Paper</i>'
+coauthors: Hiroshi Ohashi
 ---
 <!-- [Download slides here](http://academicpages.github.io/files/slides1.pdf) -->
 

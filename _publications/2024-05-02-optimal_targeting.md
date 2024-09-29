@@ -8,6 +8,7 @@ venue: 'Working Paper'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://ryuya-ko.github.io/files/optimal_targeting.pdf'
 # citation: 'Ko, Ryuya and Uetake, Kosuke and Yata, Kohei and Okada, Ryosuke, When to Target Customers? Retention Management using Dynamic Off-Policy Policy Learning (May 2, 2024). <i>Working Paper</i>'
+coauthors: Kosuke Uetake, Kohei Yata, Ryosuke Okada
 ---
 <!-- [Download slides here](http://academicpages.github.io/files/slides1.pdf) -->
 

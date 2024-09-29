@@ -32,13 +32,18 @@
       <!-- add coauthors if exists as post.coauthors -->
       <p class="page__meta" itemprop="author">
         {% if post.coauthors %}
+        with
         <!-- list coauthors as Fullname 1, Fullname 2, ..., and Fullname N in one line-->
         <!-- notice that coauthors contain the names connected by , -->
         {% assign coauthors = post.coauthors | split: "," %}
         {% for coauthor in coauthors %}
         {% assign coauthor = coauthor | strip %}
         {% if forloop.first %}
+        {% if coauthors.size > 2 %}
+        {{ coauthor }},
+        {% else %}
         {{ coauthor }}
+        {% endif %}
         {% elsif forloop.last %}
         {% if coauthors.size > 2 %}
         , and {{ coauthor }}

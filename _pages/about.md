@@ -20,9 +20,9 @@ I am a PhD student at the Department of Economics of UT Austin.
 
 Working Papers
 ------
-  <ul>{% for post in site.publications reversed %}
+  <div>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</div>
 
 
 Work in Progress

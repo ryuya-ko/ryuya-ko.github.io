@@ -21,7 +21,7 @@ I am a PhD student at the Department of Economics of UT Austin.
 Working Papers
 ------
   <div>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv-no-li.html %}
   {% endfor %}</div>
 
 

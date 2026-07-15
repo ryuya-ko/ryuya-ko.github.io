@@ -27,3 +27,6 @@ Working Papers
 
 Work in Progress
 ------
+
+1. Mergers, Information Spillovers, and Exploratory Investment: Evidence from Texas Shale Drilling
+2. Empirical Study of Innovation-for-buyout in Drug Development (with Kosuke Shimamoto)
